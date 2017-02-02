@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UlamSpiral()
+comment0.text=\r\n\ Constructor\ for\ the\ UlamSpiral\ class\r\n\ initially\ matrix\ of\ length[4][4]\r\n\ \r\n\ row\ \=\ 1,\ col\ \=\ 0\ (start\ point)\r\n
+comment1.params=
+comment1.target=void\ addMoreSpace()
+comment1.text=\r\n\ Incremeting\ the\ size\ of\ the\ matrix\ by\ 2,\ for\ both\ row\ and\ column\ length\r\n
+comment2.params=n
+comment2.target=void\ add(int)
+comment2.text=\r\n\ Add\ a\ value\ into\ this\ specific\ Ulam\ Spiral\r\n
+comment3.params=
+comment3.target=void\ checkChangeInDirection()
+comment4.params=n
+comment4.target=int\ remove(int)
+comment4.text=\r\n\ remove\ a\ specified\ value\r\n
+comment5.params=index
+comment5.target=int\ removeAtIndex(int)
+comment5.text=\r\n\ remove\ a\ specified\ value\ at\ this\ index\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ return\ a\ string\ representation\ of\ this\ object\r\n
+comment7.params=
+comment7.target=java.lang.String\ primeToString()
+comment8.params=n
+comment8.target=boolean\ checkPrime(int)
+numComments=9
